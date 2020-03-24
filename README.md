@@ -56,7 +56,7 @@ git checkout -b vasya-pupkin-fiit
 Собираем проект с заданием
 ```
 mkdir build && cd build
-cmake ../ -DLLVM_DIR=~/compiler-course/workspace/llvm-project/llvm/build/install/lib/cmake
+cmake ../ -DLLVM_DIR=~/compiler-course/workspace/llvm-project/llvm/build/install/lib/cmake/llvm
 make -j8
 ```
 
