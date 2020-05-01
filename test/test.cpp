@@ -1,5 +1,3 @@
-#include <iostream>
-
 int main() {
     float f;
     int i = (int)f;
